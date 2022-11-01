@@ -21,6 +21,8 @@
     "serverless": "^3.23.0"
   },
   "dependencies": {
-    "graceful-fs": "^4.2.10"
+    "aws-sdk": "^2.1244.0",
+    "graceful-fs": "^4.2.10",
+    "save-dev": "^0.0.1-security"
   }
 }
